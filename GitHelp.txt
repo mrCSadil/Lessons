@@ -37,4 +37,8 @@ git commit -m "Commit name"
 6) Это команда для заливки вашего проекта на ваш репозиторий. После команды origin через пробел пишите название вашей ветки, оно отображается в вашем терминале в скобке (master), (main) или (что-то другое):
 shell
 
-git push origin master
+7)git push origin master
+8) git branch
+9) git switch name
+
+10) git rm -r name
