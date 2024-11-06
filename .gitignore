@@ -1,4 +1,5 @@
 .idea
-venv
-lessons/__pychache__
-__pychache__
+.venv
+lessons/__pycache__
+__pycache__
+.gitignore
