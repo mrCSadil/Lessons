@@ -1,4 +1,4 @@
 .idea
 .venv
-lessons/__pycache__
+/lessons/__pycache__
 __pycache__
